@@ -1,6 +1,6 @@
 
 
-## Main Page
+## Projects
 
 [Final Project](https://lmduarte.github.io/Relationships/)
 
