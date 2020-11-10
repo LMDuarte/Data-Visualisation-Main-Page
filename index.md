@@ -1,5 +1,6 @@
-#Data Visualisation
-##Main Page
+# Data Visualisation
+
+## Main Page
 
 [Final Project](https://lmduarte.github.io/Relationships/)
 
