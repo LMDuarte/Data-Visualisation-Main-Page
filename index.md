@@ -11,3 +11,4 @@
 [Teaching to See](https://lmduarte.github.io/Teaching-to/)
 
 
+![image](https://user-images.githubusercontent.com/69866550/137042953-73d355c5-49da-4916-b9c3-602ce0ec6bbd.png)
